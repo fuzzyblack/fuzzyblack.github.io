@@ -1,2 +1,2 @@
 # fuzzyblack.github.io
-github 
+Hello, this Jae hyun Kim's Blog
