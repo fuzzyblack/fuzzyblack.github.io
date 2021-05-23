@@ -1,4 +1,4 @@
-# fuzzyblack.github.io
+# https://github.com/fuzzyblack
 
 뭔가 의미있는 걸 만들어보려고 github 계정을 만들어 봤는데, 이제 처음 써보는 것 같다. 
 
